@@ -1,0 +1,17 @@
+
+
+[
+  {
+    "model": "usermanagement.User",
+    "id": 1,
+    "fields": {
+          "first_name": "dinesh",
+          "last_name": "bupathi",
+          "email": "bupathidinesh95@gmail.com",
+          "is_staff": true,
+          "is_active": true,
+          "username": "dinesh23",
+          "password": "dinesh123"
+    }
+  }
+]
