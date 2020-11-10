@@ -5,13 +5,13 @@
     "model": "usermanagement.User",
     "id": 1,
     "fields": {
-          "first_name": "dinesh",
-          "last_name": "bupathi",
-          "email": "bupathidinesh95@gmail.com",
+          "first_name": "test",
+          "last_name": "user",
+          "email": "test_user@gmail.com",
           "is_staff": true,
           "is_active": true,
-          "username": "dinesh;bhupathi",
-          "password": "dinesh123"
+          "username": "test_user;",
+          "password": "correcthorsebatterystaple"
     }
   }
 ]
